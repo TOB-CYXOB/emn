@@ -2,9 +2,9 @@
 	$LANG = array();
 	$LANG["UNKNOWN_ERROR"] = "UNKNOWN ERROR.";
 	$LANG["USER_DEFAULT_NICKNAME"] = "Guest";
-	$LANG['SITENAME_HAVEPLACE']  = "Есть место";
-	$LANG['SITENAME_NOPLACE']  = "Нет мест";
-	$LANG['TRANSPORT_PLACES_COUNT_ARR'] = array('место','места','мест');
+	$LANG['SITENAME_HAVEPLACE']  = "Have a place";
+	$LANG['SITENAME_NOPLACE']  = "No place";
+	$LANG['TRANSPORT_PLACES_COUNT_ARR'] = array('place','place','places');
 	$LANG["TRIP_CREATE_TITLE"] = "Создать новый Трип";
 	$LANG['TRIP_MYTRIPS_TITLE'] = "Мои трипы";
 	$LANG['TRIP_LASTTRIPS_TITLE'] = "Последние трипы";
