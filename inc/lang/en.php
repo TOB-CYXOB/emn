@@ -8,7 +8,7 @@
 	$LANG["TRIP_CREATE_TITLE"] = "Создать новый Трип";
 	$LANG['TRIP_MYTRIPS_TITLE'] = "My trips";
 	$LANG['TRIP_LASTTRIPS_TITLE'] = "Последние трипы";
-	$LANG["USER_REGEMAIL_SUBJECT"] = 'Экспресс-регистрация на сайте EstMesto.Net';
+	$LANG["USER_REGEMAIL_SUBJECT"] = 'Express registration on EstMesto.Net';
 	$LANG["USER_REGEMAIL_DONE"] = 'Экспресс-регистрация успешно завершена. Ключ-ссылка для входа выслана на ваш адрес.';
 
 ?>
