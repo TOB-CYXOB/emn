@@ -1,7 +1,7 @@
 ﻿<?
 	$LANG = array();
 	$LANG["UNKNOWN_ERROR"] = "UNKNOWN ERROR.";
-	$LANG["USER_DEFAULT_NICKNAME"] = "Гость";
+	$LANG["USER_DEFAULT_NICKNAME"] = "Guest";
 	$LANG['SITENAME_HAVEPLACE']  = "Есть место";
 	$LANG['SITENAME_NOPLACE']  = "Нет мест";
 	$LANG['TRANSPORT_PLACES_COUNT_ARR'] = array('место','места','мест');
