@@ -1,0 +1,21 @@
+.brand.logo {
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 24px;
+	letter-spacing: -1px;
+	color: #5bb75b;
+	font-style: italic;
+}
+
+.pluso-more {
+display: none !important;
+}
+
+.ue-tab-container {
+    bottom: 0;
+    left: 50%;
+	margin-left: -60px;
+    right: auto;
+    position: fixed;
+    z-index: 100001 !important;
+}

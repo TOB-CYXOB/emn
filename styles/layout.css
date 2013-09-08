@@ -1,0 +1,78 @@
+  .container-fluid-main {
+	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+  }
+
+
+
+/*
+	Header panel
+*/
+
+	.heder_panel-user_menu-avatar IMG {
+		width: 30px;
+		height: 30px;
+		margin-right: 0px;
+		height: 50%;
+	}
+	
+	
+/*
+	Trip
+*/	
+
+
+	.container-trip {
+		pa-dding-top: 40px;
+	}
+	
+/*
+	Trip menu
+*/	
+	
+	
+	.secondary-menu {
+		position: fixed !important;
+		width: 100%;
+		top: 40px;
+		z-index: 9999;
+	}	
+	
+	.secondary-menu .navbar-inner {
+		padding: 0px;
+	}
+	
+/*
+	Trip transport list
+*/
+
+	.content_wrapper {
+		background-color: #fff;
+		padding: 0 300px 0 0;
+	}
+	
+	
+	
+/*
+	Chat
+*/
+	.chat_wrapper {
+		background-color: #f4f4f4;
+		position: fixed;
+		height: 100%;
+		width: 300px;
+		top: -80px;
+		right: 0px;
+		overflow: hidden;
+		-moz-box-sizing: content-box;
+		-webkit-box-sizing: content-box;
+		box-sizing: content-box;
+		zindex: 999999;
+		padding: 0 0 80px 0;
+	}
+	
+	#chatMessage {
+		width: 295px;
+		height: 50px;
+	}
+	
+*/	

@@ -1,0 +1,18 @@
+AddDefaultCharset utf-8
+RewriteEngine on
+
+RewriteBase /
+
+
+ErrorDocument 403 /403.php
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
+
+
+
+RewriteRule ^$ inner.php?pathstring=/index/
+RewriteRule ^([^\.]+)$ inner.php?path=$1 [QSA]
+
+
+
+
