@@ -1,6 +1,6 @@
 ﻿<?
 	$LANG = array();
-	$LANG["UNKNOWN_ERROR"] = "Неизвестная ошибка.";
+	$LANG["UNKNOWN_ERROR"] = "UNKNOWN ERROR.";
 	$LANG["USER_DEFAULT_NICKNAME"] = "Гость";
 	$LANG['SITENAME_HAVEPLACE']  = "Есть место";
 	$LANG['SITENAME_NOPLACE']  = "Нет мест";
